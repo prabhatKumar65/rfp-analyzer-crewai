@@ -1,6 +1,6 @@
 # AI RFP Analyzer (CrewAI + Ollama)
 
-This project is a multi-agent AI workflow built with CrewAI and Python. It reads an RFP document (PDF) and uses sequential AI agents to extract key information, generate a summary, and perform risk analysis.
+This project is a multi-agent AI workflow built with CrewAI and Python. It reads an Request for Proposal (RFP) document (PDF) and uses sequential AI agents to extract key information, generate a summary, and perform risk analysis.
 
 ## Technologies Used
 - Python 3.x
